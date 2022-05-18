@@ -1,0 +1,54 @@
+/*
+ *
+ * Instituto Federal de Educação, Ciência e Tecnologia - IFPE
+ * Cursos: Informática para Internet | Sistemas para Internet
+ * Componentes Curriculares: Lógica de Programação e Estrutura de Dados | Introdução à Programação Imperativa
+ * Professor: Allan Lima - allan.lima@igarassu.ifpe.edu.br
+ *
+ * Nome completo: Bernardo Filipe Oliveira de Farias Guilherme
+ * Curso: TSI
+ * Aula: Aula 02 - Algoritmos - Mini-prova
+ * Questão: 2
+ *
+ */
+
+
+Ingredientes
+
+▶ Livros
+▶ Estante
+
+Passos
+
+1. Ter os livros;
+2. A estante tem que estar vazia para que não compromenta a organização categorizada;
+3. Separar os livros por ordem de categoria;
+4. Escolha a seguinte ordem para inserir os livros;
+4.1 Romance, Outros, Didático e Suspense;
+4.2 Romance, Outros, Suspenso e Didático;
+4.3 Romance, Suspense, Didático e Outros;
+4.4 Romance, Suspense, Outros e Didático;
+4.5 Romance, Didático, Suspense e Outros;
+4.6 Romance, Didático, Outros e Suspense;
+4.7 Didático, Outros, Suspense e Romance;
+4.8 Didático, Outros, Romance e Suspense;
+4.9 Didático, Suspense, Outros e Romance;
+4.10 Didático, Suspense, Romance e Outros;
+4.11 Didático, Romance, Suspense e Outros;
+4.12 Didático, Romance, Outros e Suspense;
+4.13 Suspense, Outros, Romance e Didático;
+4.14 Suspense, Outros, Didático e Romance;
+4.15 Suspense, Romance, Outros e Didático;
+4.16 Suspense, Romance, Didático e Outros;
+4.17 Suspense, Didático, Romance e Outros;
+4.18 Suspense, Didático, Outros e Romance;
+4.19 Outros, Romance, Didático e Suspense;
+4.20 Outros, Romance, Suspense e Didático;
+4.21 Outros, Didático, Romance e Suspense;	
+4.22 Outros, Didático, Suspense e Romance;
+4.23 Outros, Suspense, Didático e Romance;
+4.24 Outros, Suspense, Romance e Didático;
+5. Ao decidir uma opção de ordem de organização, insira os livros na estante;
+6. Se você não tiver uma estante, pode organizar seus livros de forma empilhada, mas respeitando a categorização.
+
+

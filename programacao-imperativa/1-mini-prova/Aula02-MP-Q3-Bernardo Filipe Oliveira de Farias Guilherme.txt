@@ -1,0 +1,70 @@
+/*
+ *
+ * Instituto Federal de Educação, Ciência e Tecnologia - IFPE
+ * Cursos: Informática para Internet | Sistemas para Internet
+ * Componentes Curriculares: Lógica de Programação e Estrutura de Dados | Introdução à Programação Imperativa
+ * Professor: Allan Lima - allan.lima@igarassu.ifpe.edu.br
+ *
+ * Nome completo: Bernardo Filipe Oliveira de Farias Guilherme
+ * Curso: TSI
+ * Aula: Aula 02 - Algoritmos - Mini-prova
+ * Questão: 3
+ *
+ */
+
+Ingredientes
+	Televisão
+	Cabo de energia
+	Caso da antena
+	Controle remoto
+
+Passos
+	1. Aperte o botão de power da televisão; // não há como apertar o botão power sem a televisão estar conectada a internet
+	2. Ligue o cabo da energia na entrada de energia; // primeiro passo
+	3. Ligue o cabo da antena na entrada HDMI; // não há possibilidade de conectar o cabo da antena com entrada hdmi
+	4. Configure a conexão da TV com a internet que foi feita através do cabo ethernet. // não foi apresentado um cabo de enthernet para fazer a conexão
+
+Ingredientes Novos
+
+	Televisão
+	Cabo de energia
+	Suporte de Televisão
+	Cabo da antena
+	Controle remoto
+	Cabo de enthernet
+	Antena
+	Parafusos
+	Chave de fenda
+	Escada
+	Furadeira
+	Bucha
+	
+
+Passos Novos
+
+	1. Verifique se a televisão está com todos os cabos desconectados;
+		1.1 Se sim, retire ela no suporte;
+		1.2 Se não, desconecte os cabos e retire do suporte;
+	2. Saia de casa e seguiremos com a instalação da antena;
+	3. Utilize a escada para alcançar uma altura suficiente para a instalação da antena;
+	4. Utilize a furadeira para fazer os furos adequados para instalação;
+		4.1 Insira as buchas nos furos;
+		4.2 Posicione a antena;
+		4.3 Insira os parafusos nas buchas;
+		4.4 Aperte com a chave de fenda;
+	5. Conecte o cabo a antena, e traga até o mais próximo possivel da televisão;
+	6. Verifique se todos os cabos estão prontos para o inicio da instalação
+		6.1 Se não, volte o passo 1 e tenha mais atenção;
+	7. A introdução de cabos será respectivamente nessa ordem;
+		7.1 Cabo de enthernet;
+		7.2 Cabo da antena;
+		7.3 Cabo de energia;
+	8. Insira a televisão novamente no suporte;
+		8.1 Insira os parafusos e aperte;
+	9. Utilize o controle remoto para ligar a televisão, procura se a conexão via cabo está funcionando;
+		9.1 Se sim, sua televisão está conectada a internet de forma correta;
+		9.2 Se não, verifique o cabo de enthernet de forma correta, se mesmo assim não ter resolução, verifique no modem a conexão do cabo, e se mesmo assim não houver resolução, troque os cabos de enthernet.
+	10. Verifique se a conexão via antena está funcionando;
+		10.1 Se sim, sua conexão está conectada via antena de forma correta;
+		10.2 Se não, Verifique se a conexão está de forma correta, tanto na conexão da antena, como na entrada da televisão, se mesmo assim não houver conexão reposicione sua antena utilizando novamente o passo 3, 4 e 5;
+	11. Após a conexão perfeita via internet e via cabo, guarde os itens utilizado, e você tem todos os acessos disponiveis na sua televisão;

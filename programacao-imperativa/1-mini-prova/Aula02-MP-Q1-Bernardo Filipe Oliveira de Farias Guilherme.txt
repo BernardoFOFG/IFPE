@@ -1,0 +1,32 @@
+/*
+ *
+ * Instituto Federal de Educação, Ciência e Tecnologia - IFPE
+ * Cursos: Informática para Internet | Sistemas para Internet
+ * Componentes Curriculares: Lógica de Programação e Estrutura de Dados | Introdução à Programação Imperativa
+ * Professor: Allan Lima - allan.lima@igarassu.ifpe.edu.br
+ *
+ * Nome completo: Bernardo Filipe Oliveira de Farias Guilherme
+ * Curso: TSI
+ * Aula: Aula 02 - Algoritmos - Mini-prova
+ * Questão: 1
+ *
+ */
+
+
+Ingredientes
+
+▶ Mesa
+▶ Trena
+▶ Caderno
+▶ Caneta
+
+
+Passos
+
+1º Posicionar a mesa em uma posição adequada para ter acesso aos seus lados;
+2º Pegar a trena e medir todos os seus lados;
+3º Anotar com a caneta no caderno todos os valores medidos;
+4º Se as dimensões forem iguais utilizar A=L² para saber a dimensão total da mesa;
+5º Se as dimensões forem diferentes utilizar A=b*h para saber a dimensão total da mesa;
+6º Anotar em m² quanto são as dimensões da mesa;
+7º Guardar a trena, trena, caderno e caneta;
