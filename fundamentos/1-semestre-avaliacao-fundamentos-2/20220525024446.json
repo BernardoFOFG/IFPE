@@ -1,0 +1,7 @@
+{
+  "source": "\"IBGE - Censo Demográfico\"",
+  "title": "População residente por sexo",
+  "valuesMap": {
+    "Brasil": { "Homens": "93.406.990", "Mulheres": "97.348.809" }
+  }
+}
