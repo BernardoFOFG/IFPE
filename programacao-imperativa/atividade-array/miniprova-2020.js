@@ -39,4 +39,4 @@ let array2 = [
   [4, 3],
   [2, 3],
 ];
-console.log(imprimirInverso2(array1, array2))
+console.log(imprimirInverso2(array1, array2));
